@@ -29,5 +29,5 @@ To run the project locally:
 3. Run the notebook or script.
 
 ---
-*Created by [ILYASS ELMAMOUNI]*
+*Created by ILYASS ELMAMOUNI*
 <img width="1910" height="525" alt="twwt foto" src="https://github.com/user-attachments/assets/a7680fb2-4868-4995-be14-3528174f9273" />
