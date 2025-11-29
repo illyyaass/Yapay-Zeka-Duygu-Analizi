@@ -1,6 +1,5 @@
 # 🎭 Sentiment Analysis AI Project
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/Sentiment-Analysis-Tweet-App/blob/main/Sentiment_Analysis.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/illyyaass/Yapay-Zeka-Duygu-Analizi/blob/main/Untitled6twwt.ipynb)
 ## 📜 Overview
 This project is a Machine Learning application that analyzes the sentiment of tweets (Positive or Negative). It uses **Logistic Regression** trained on the **Sentiment140** dataset (1.6 million tweets) and features a user-friendly interface built with **Gradio**.
 
